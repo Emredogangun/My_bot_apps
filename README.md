@@ -1,4 +1,4 @@
 # My_bot_apps
-#Creating tables
+# Creating tables
 add-migration migration_name
 update-database
